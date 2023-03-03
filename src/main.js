@@ -9,8 +9,8 @@ import { h, reactive } from "vue";
 //==== Keycloack ====================== 
 let initOptions = {
   url: "http://localhost:8180/",
-  realm: "itcare_dev",
-  clientId: "crm_fe",
+  realm: "yourrealm_dev",
+  clientId: "your_client",
   onLoad: "login-required",
 };
 

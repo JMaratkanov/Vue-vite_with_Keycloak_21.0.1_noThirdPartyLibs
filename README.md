@@ -20,4 +20,4 @@ Web origins: *
 Admin URL: http://localhost:3000
 
 # Make sure you use the right keycloak endpoints. Some older versions have different paths
-http://localhost:8180/realms/itcare_dev/.well-known/openid-configuration (assuming your keycloak is running on 8180)
+http://localhost:8180/realms/yourrealm/.well-known/openid-configuration (assuming your keycloak is running on 8180)
