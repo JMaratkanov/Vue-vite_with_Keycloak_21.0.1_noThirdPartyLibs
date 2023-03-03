@@ -1,6 +1,6 @@
 # I managed to implement keycloak-js adapter 21.0.1 with Vue 3 Vite, without any third party libraries
-# Given you entered your keycloak configurations correctly, you should be able to perform GET-Requests to your backend
-# by passing your URI into the inputfield, logging in/out with kecloak and seeing some details of your end-user
+Given you entered your keycloak configurations correctly, you should be able to perform GET-Requests to your backend
+by passing your URI into the inputfield, logging in/out with kecloak and seeing some details of your end-user
 
 This is a ready to use solution for creating an instance of keycloak and passing it to the App.vue.
 A realm, a client and an user with given roles should already exist on your keycloak server, in order to
